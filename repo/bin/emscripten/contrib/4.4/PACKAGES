@@ -1,0 +1,8 @@
+Package: httr
+Version: 1.4.7
+Depends: R (>= 3.5)
+Imports: curl (>= 5.0.2), jsonlite, mime, openssl (>= 0.8), R6
+Suggests: covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+        (>= 0.8.0), xml2
+License: MIT + file LICENSE
+MD5sum: 98f6a0a84d5bdbbceeef2e727b29048d
